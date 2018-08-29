@@ -1,0 +1,1898 @@
+1524140307790	geckodriver	INFO	geckodriver 0.18.0
+1524140307794	geckodriver	INFO	Listening on 127.0.0.1:39820
+1524140308992	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524140312128	Marionette	INFO	Enabled via --marionette
+1524140320109	Marionette	INFO	Listening on port 41968
+1524140320144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524140510887	geckodriver	INFO	geckodriver 0.18.0
+1524140510890	geckodriver	INFO	Listening on 127.0.0.1:36184
+1524140512037	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524140513160	Marionette	INFO	Enabled via --marionette
+1524140516489	Marionette	INFO	Listening on port 33342
+1524140516553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524140835329	geckodriver	INFO	geckodriver 0.18.0
+1524140835333	geckodriver	INFO	Listening on 127.0.0.1:60528
+1524140836459	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524140837753	Marionette	INFO	Enabled via --marionette
+1524140840817	Marionette	INFO	Listening on port 40216
+1524140840877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524140881383	geckodriver	INFO	geckodriver 0.18.0
+1524140881389	geckodriver	INFO	Listening on 127.0.0.1:44087
+1524140882501	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524140884165	Marionette	INFO	Enabled via --marionette
+1524140887348	Marionette	INFO	Listening on port 44658
+1524140887418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524373465994	geckodriver	INFO	geckodriver 0.18.0
+1524373466026	geckodriver	INFO	Listening on 127.0.0.1:41145
+1524373467214	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524373473437	Marionette	INFO	Enabled via --marionette
+1524373479052	Marionette	INFO	Listening on port 45353
+1524373480228	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524373596537	geckodriver	INFO	geckodriver 0.18.0
+1524373596540	geckodriver	INFO	Listening on 127.0.0.1:40807
+1524373597653	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524373598633	Marionette	INFO	Enabled via --marionette
+1524373601807	Marionette	INFO	Listening on port 44582
+1524373601885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524373718364	geckodriver	INFO	geckodriver 0.18.0
+1524373718367	geckodriver	INFO	Listening on 127.0.0.1:57681
+1524373719473	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524373720568	Marionette	INFO	Enabled via --marionette
+1524373723626	Marionette	INFO	Listening on port 44538
+1524373723688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524391881152	geckodriver	INFO	geckodriver 0.18.0
+1524391881188	geckodriver	INFO	Listening on 127.0.0.1:46210
+1524391882351	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524391888611	Marionette	INFO	Enabled via --marionette
+1524391894848	Marionette	INFO	Listening on port 36905
+1524391895806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/en/supervisor/dashboard, line 1154: TypeError: $(...).DataTable is not a function
+JavaScript error: http://192.168.5.25:8000/static/vendors/build/js/custom.min.js, line 1: TypeError: $(...).smartresize is not a function
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+JavaScript error: http://192.168.5.25:8000/static/vendors/build/js/custom.min.js, line 1: TypeError: $(...).smartresize is not a function
+1524392585862	geckodriver	INFO	geckodriver 0.18.0
+1524392585867	geckodriver	INFO	Listening on 127.0.0.1:36580
+1524392586980	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524392587907	Marionette	INFO	Enabled via --marionette
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524392760945	geckodriver	INFO	geckodriver 0.18.0
+1524392760949	geckodriver	INFO	Listening on 127.0.0.1:42194
+1524392762119	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524392763791	Marionette	INFO	Enabled via --marionette
+1524392766745	Marionette	INFO	Listening on port 38165
+1524392766841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/en/supervisor/dashboard, line 1154: TypeError: $(...).DataTable is not a function
+1524393169529	geckodriver	INFO	geckodriver 0.18.0
+1524393169532	geckodriver	INFO	Listening on 127.0.0.1:55321
+1524393170700	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524393171719	Marionette	INFO	Enabled via --marionette
+1524393174669	Marionette	INFO	Listening on port 33648
+1524393174716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524393258827	geckodriver	INFO	geckodriver 0.18.0
+1524393258831	geckodriver	INFO	Listening on 127.0.0.1:33300
+1524393260007	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524393260913	Marionette	INFO	Enabled via --marionette
+1524393263953	Marionette	INFO	Listening on port 40521
+1524393264020	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+1524393568066	geckodriver	INFO	geckodriver 0.18.0
+1524393568069	geckodriver	INFO	Listening on 127.0.0.1:51646
+1524393569190	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524393570121	Marionette	INFO	Enabled via --marionette
+1524393573008	Marionette	INFO	Listening on port 33044
+1524393573109	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+1524393865637	geckodriver	INFO	geckodriver 0.18.0
+1524393865640	geckodriver	INFO	Listening on 127.0.0.1:49401
+1524393866756	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524393867683	Marionette	INFO	Enabled via --marionette
+1524393870524	Marionette	INFO	Listening on port 40847
+1524393870588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524394008530	geckodriver	INFO	geckodriver 0.18.0
+1524394008533	geckodriver	INFO	Listening on 127.0.0.1:60591
+1524394009655	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524394010580	Marionette	INFO	Enabled via --marionette
+1524394013520	Marionette	INFO	Listening on port 34111
+1524394013582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524394121133	geckodriver	INFO	geckodriver 0.18.0
+1524394121137	geckodriver	INFO	Listening on 127.0.0.1:47111
+1524394122253	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524394123197	Marionette	INFO	Enabled via --marionette
+1524394126192	Marionette	INFO	Listening on port 44551
+1524394126275	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1524456390814	geckodriver	INFO	geckodriver 0.18.0
+1524456390868	geckodriver	INFO	Listening on 127.0.0.1:46872
+1524456392001	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524456398324	Marionette	INFO	Enabled via --marionette
+1524456404298	Marionette	INFO	Listening on port 35626
+1524456405397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524456872114	geckodriver	INFO	geckodriver 0.18.0
+1524456872118	geckodriver	INFO	Listening on 127.0.0.1:40547
+1524456873228	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524456874182	Marionette	INFO	Enabled via --marionette
+1524456877094	Marionette	INFO	Listening on port 40086
+1524456877151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524458999182	geckodriver	INFO	geckodriver 0.18.0
+1524458999187	geckodriver	INFO	Listening on 127.0.0.1:40117
+1524459000298	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524459001207	Marionette	INFO	Enabled via --marionette
+1524459004099	Marionette	INFO	Listening on port 42554
+1524459004122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524460400037	geckodriver	INFO	geckodriver 0.18.0
+1524460400041	geckodriver	INFO	Listening on 127.0.0.1:47700
+1524460401195	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524460402186	Marionette	INFO	Enabled via --marionette
+1524460405118	Marionette	INFO	Listening on port 35235
+1524460405213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524460487668	geckodriver	INFO	geckodriver 0.18.0
+1524460487672	geckodriver	INFO	Listening on 127.0.0.1:56647
+1524460487791	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524460488741	Marionette	INFO	Enabled via --marionette
+1524460491874	Marionette	INFO	Listening on port 37914
+1524460491906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524460566396	geckodriver	INFO	geckodriver 0.18.0
+1524460566400	geckodriver	INFO	Listening on 127.0.0.1:40999
+1524460567508	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524460568541	Marionette	INFO	Enabled via --marionette
+1524460571583	Marionette	INFO	Listening on port 32807
+1524460571625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524460636437	geckodriver	INFO	geckodriver 0.18.0
+1524460636441	geckodriver	INFO	Listening on 127.0.0.1:50524
+1524460637550	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524460638534	Marionette	INFO	Enabled via --marionette
+1524460641550	Marionette	INFO	Listening on port 37036
+1524460641573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524460856205	geckodriver	INFO	geckodriver 0.18.0
+1524460856209	geckodriver	INFO	Listening on 127.0.0.1:58042
+1524460857346	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524460858292	Marionette	INFO	Enabled via --marionette
+1524460861157	Marionette	INFO	Listening on port 38452
+1524460861262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+1524461147981	geckodriver	INFO	geckodriver 0.18.0
+1524461147984	geckodriver	INFO	Listening on 127.0.0.1:56232
+1524461148105	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461149986	Marionette	INFO	Enabled via --marionette
+1524461152860	Marionette	INFO	Listening on port 38250
+1524461152936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524461178127	geckodriver	INFO	geckodriver 0.18.0
+1524461178131	geckodriver	INFO	Listening on 127.0.0.1:58584
+1524461179249	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461180394	Marionette	INFO	Enabled via --marionette
+1524461183346	Marionette	INFO	Listening on port 34167
+1524461183372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524461238107	geckodriver	INFO	geckodriver 0.18.0
+1524461238110	geckodriver	INFO	Listening on 127.0.0.1:38203
+1524461239228	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461240412	Marionette	INFO	Enabled via --marionette
+1524461243434	Marionette	INFO	Listening on port 41800
+1524461243462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524461329287	geckodriver	INFO	geckodriver 0.18.0
+1524461329292	geckodriver	INFO	Listening on 127.0.0.1:48431
+1524461330409	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461331522	Marionette	INFO	Enabled via --marionette
+1524461334783	Marionette	INFO	Listening on port 45612
+1524461334832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://192.168.5.25:8000
+1524461505281	geckodriver	INFO	geckodriver 0.18.0
+1524461505285	geckodriver	INFO	Listening on 127.0.0.1:43925
+1524461506387	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461507483	Marionette	INFO	Enabled via --marionette
+1524461510612	Marionette	INFO	Listening on port 39957
+1524461510702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524461565145	geckodriver	INFO	geckodriver 0.18.0
+1524461565149	geckodriver	INFO	Listening on 127.0.0.1:60386
+1524461566265	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461567202	Marionette	INFO	Enabled via --marionette
+1524461570282	Marionette	INFO	Listening on port 37503
+1524461570380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524461620411	geckodriver	INFO	geckodriver 0.18.0
+1524461620416	geckodriver	INFO	Listening on 127.0.0.1:33695
+1524461621559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461622606	Marionette	INFO	Enabled via --marionette
+1524461626178	Marionette	INFO	Listening on port 37585
+1524461626283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524461691790	geckodriver	INFO	geckodriver 0.18.0
+1524461691797	geckodriver	INFO	Listening on 127.0.0.1:40366
+1524461692961	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461693950	Marionette	INFO	Enabled via --marionette
+1524461697111	Marionette	INFO	Listening on port 33773
+1524461697187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524461747228	geckodriver	INFO	geckodriver 0.18.0
+1524461747232	geckodriver	INFO	Listening on 127.0.0.1:41438
+1524461748356	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524461749543	Marionette	INFO	Enabled via --marionette
+1524461752747	Marionette	INFO	Listening on port 42838
+1524461752795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524466485460	geckodriver	INFO	geckodriver 0.18.0
+1524466485609	geckodriver	INFO	Listening on 127.0.0.1:50666
+1524466486684	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524466492661	Marionette	INFO	Enabled via --marionette
+1524466502581	Marionette	INFO	Listening on port 35967
+1524466503530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524466546813	geckodriver	INFO	geckodriver 0.18.0
+1524466546816	geckodriver	INFO	Listening on 127.0.0.1:44601
+1524466547289	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524466550551	Marionette	INFO	Enabled via --marionette
+1524466554511	Marionette	INFO	Listening on port 35013
+1524466554533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524466644831	geckodriver	INFO	geckodriver 0.18.0
+1524466644835	geckodriver	INFO	Listening on 127.0.0.1:39318
+1524466645074	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524466647422	Marionette	INFO	Enabled via --marionette
+1524466651105	Marionette	INFO	Listening on port 40307
+1524466651195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524474052707	geckodriver	INFO	geckodriver 0.18.0
+1524474052902	geckodriver	INFO	Listening on 127.0.0.1:47548
+1524474054094	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524474056838	Marionette	INFO	Enabled via --marionette
+1524474062461	Marionette	INFO	Listening on port 44436
+1524474064377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524548062196	geckodriver	INFO	geckodriver 0.18.0
+1524548062272	geckodriver	INFO	Listening on 127.0.0.1:54775
+1524548063349	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524548069672	Marionette	INFO	Enabled via --marionette
+1524548075547	Marionette	INFO	Listening on port 35038
+1524548076611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524548127943	geckodriver	INFO	geckodriver 0.18.0
+1524548127946	geckodriver	INFO	Listening on 127.0.0.1:34600
+1524548129069	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524548130194	Marionette	INFO	Enabled via --marionette
+1524548133033	Marionette	INFO	Listening on port 37769
+1524548133091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524548204433	geckodriver	INFO	geckodriver 0.18.0
+1524548204436	geckodriver	INFO	Listening on 127.0.0.1:54464
+1524548205558	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524548206539	Marionette	INFO	Enabled via --marionette
+1524548209523	Marionette	INFO	Listening on port 35993
+1524548209576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524548396245	geckodriver	INFO	geckodriver 0.18.0
+1524548396248	geckodriver	INFO	Listening on 127.0.0.1:44944
+1524548397377	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524548398294	Marionette	INFO	Enabled via --marionette
+1524548401018	Marionette	INFO	Listening on port 44623
+1524548401106	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524548751337	geckodriver	INFO	geckodriver 0.18.0
+1524548751341	geckodriver	INFO	Listening on 127.0.0.1:39299
+1524548752477	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524548753413	Marionette	INFO	Enabled via --marionette
+1524548756280	Marionette	INFO	Listening on port 37180
+1524548756302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524549536596	geckodriver	INFO	geckodriver 0.18.0
+1524549536600	geckodriver	INFO	Listening on 127.0.0.1:44012
+1524549537736	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524549538627	Marionette	INFO	Enabled via --marionette
+1524549541568	Marionette	INFO	Listening on port 36677
+1524549541650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524549609476	geckodriver	INFO	geckodriver 0.18.0
+1524549609479	geckodriver	INFO	Listening on 127.0.0.1:46923
+1524549610605	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524549611582	Marionette	INFO	Enabled via --marionette
+1524549614401	Marionette	INFO	Listening on port 40123
+1524549614433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524549671051	geckodriver	INFO	geckodriver 0.18.0
+1524549671054	geckodriver	INFO	Listening on 127.0.0.1:56141
+1524549672226	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524549673154	Marionette	INFO	Enabled via --marionette
+1524549676075	Marionette	INFO	Listening on port 41549
+1524549676141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524550811191	geckodriver	INFO	geckodriver 0.18.0
+1524550811196	geckodriver	INFO	Listening on 127.0.0.1:43996
+1524550812313	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524550813905	Marionette	INFO	Enabled via --marionette
+1524550816774	Marionette	INFO	Listening on port 40131
+1524550816832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524550846544	geckodriver	INFO	geckodriver 0.18.0
+1524550846548	geckodriver	INFO	Listening on 127.0.0.1:48325
+1524550847721	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524550848689	Marionette	INFO	Enabled via --marionette
+1524550851583	Marionette	INFO	Listening on port 36897
+1524550851638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524550935568	geckodriver	INFO	geckodriver 0.18.0
+1524550935572	geckodriver	INFO	Listening on 127.0.0.1:34236
+1524550936718	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524550937871	Marionette	INFO	Enabled via --marionette
+1524550940826	Marionette	INFO	Listening on port 41093
+1524550940846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524551654787	geckodriver	INFO	geckodriver 0.18.0
+1524551654791	geckodriver	INFO	Listening on 127.0.0.1:51076
+1524551655954	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524551656928	Marionette	INFO	Enabled via --marionette
+1524551659841	Marionette	INFO	Listening on port 43277
+1524551659880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524551713567	geckodriver	INFO	geckodriver 0.18.0
+1524551713571	geckodriver	INFO	Listening on 127.0.0.1:38570
+1524551714687	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524551715688	Marionette	INFO	Enabled via --marionette
+1524551719010	Marionette	INFO	Listening on port 34084
+1524551719102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524551802401	geckodriver	INFO	geckodriver 0.18.0
+1524551802406	geckodriver	INFO	Listening on 127.0.0.1:35341
+1524551803517	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524551804630	Marionette	INFO	Enabled via --marionette
+1524551807867	Marionette	INFO	Listening on port 41668
+1524551808013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524551947429	geckodriver	INFO	geckodriver 0.18.0
+1524551947433	geckodriver	INFO	Listening on 127.0.0.1:58816
+1524551948577	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524551949590	Marionette	INFO	Enabled via --marionette
+1524551952702	Marionette	INFO	Listening on port 45699
+1524551952800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524552057433	geckodriver	INFO	geckodriver 0.18.0
+1524552057440	geckodriver	INFO	Listening on 127.0.0.1:40508
+1524552058556	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524552059559	Marionette	INFO	Enabled via --marionette
+1524552062587	Marionette	INFO	Listening on port 43130
+1524552062672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524552154702	geckodriver	INFO	geckodriver 0.18.0
+1524552154706	geckodriver	INFO	Listening on 127.0.0.1:60707
+1524552155847	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524552156969	Marionette	INFO	Enabled via --marionette
+1524552159911	Marionette	INFO	Listening on port 44361
+1524552159981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524552305952	geckodriver	INFO	geckodriver 0.18.0
+1524552305956	geckodriver	INFO	Listening on 127.0.0.1:43241
+1524552307092	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524552308212	Marionette	INFO	Enabled via --marionette
+1524552311168	Marionette	INFO	Listening on port 35124
+1524552311209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1524553103759	geckodriver	INFO	geckodriver 0.18.0
+1524553103763	geckodriver	INFO	Listening on 127.0.0.1:47587
+1524553104879	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524553106119	Marionette	INFO	Enabled via --marionette
+1524553109147	Marionette	INFO	Listening on port 40802
+1524553109202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524553151914	geckodriver	INFO	geckodriver 0.18.0
+1524553151918	geckodriver	INFO	Listening on 127.0.0.1:51218
+1524553153039	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524553154238	Marionette	INFO	Enabled via --marionette
+1524553157056	Marionette	INFO	Listening on port 37310
+1524553157158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524553295002	geckodriver	INFO	geckodriver 0.18.0
+1524553295007	geckodriver	INFO	Listening on 127.0.0.1:44318
+1524553296123	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524553297067	Marionette	INFO	Enabled via --marionette
+1524553300374	Marionette	INFO	Listening on port 34872
+1524553300439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1524554195273	geckodriver	INFO	geckodriver 0.18.0
+1524554195276	geckodriver	INFO	Listening on 127.0.0.1:34139
+1524554196384	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524554197518	Marionette	INFO	Enabled via --marionette
+1524554201864	Marionette	INFO	Listening on port 40588
+1524554201995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524554339994	geckodriver	INFO	geckodriver 0.18.0
+1524554340003	geckodriver	INFO	Listening on 127.0.0.1:60930
+1524554341194	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524554342562	Marionette	INFO	Enabled via --marionette
+1524554346237	Marionette	INFO	Listening on port 32916
+1524554346324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+[Parent 12958, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524628718129	geckodriver	INFO	geckodriver 0.18.0
+1524628718216	geckodriver	INFO	Listening on 127.0.0.1:51773
+1524628719349	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524628725471	Marionette	INFO	Enabled via --marionette
+1524628731475	Marionette	INFO	Listening on port 41727
+1524628731621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524629148820	geckodriver	INFO	geckodriver 0.18.0
+1524629148823	geckodriver	INFO	Listening on 127.0.0.1:34604
+1524629149946	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524629150899	Marionette	INFO	Enabled via --marionette
+1524629153731	Marionette	INFO	Listening on port 35020
+1524629153781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524629207249	geckodriver	INFO	geckodriver 0.18.0
+1524629207253	geckodriver	INFO	Listening on 127.0.0.1:40915
+1524629208403	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524629209358	Marionette	INFO	Enabled via --marionette
+1524629212175	Marionette	INFO	Listening on port 42226
+1524629212217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524629634744	geckodriver	INFO	geckodriver 0.18.0
+1524629634748	geckodriver	INFO	Listening on 127.0.0.1:59368
+1524629635925	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524629636839	Marionette	INFO	Enabled via --marionette
+1524629639635	Marionette	INFO	Listening on port 37465
+1524629639646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524629675389	geckodriver	INFO	geckodriver 0.18.0
+1524629675392	geckodriver	INFO	Listening on 127.0.0.1:43282
+1524629676534	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524629677450	Marionette	INFO	Enabled via --marionette
+1524629680276	Marionette	INFO	Listening on port 44474
+1524629680347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524629781222	geckodriver	INFO	geckodriver 0.18.0
+1524629781226	geckodriver	INFO	Listening on 127.0.0.1:60986
+1524629782341	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524629783278	Marionette	INFO	Enabled via --marionette
+1524629786077	Marionette	INFO	Listening on port 38491
+1524629786156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524629944958	geckodriver	INFO	geckodriver 0.18.0
+1524629944961	geckodriver	INFO	Listening on 127.0.0.1:54638
+1524629946073	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524629947012	Marionette	INFO	Enabled via --marionette
+1524629949969	Marionette	INFO	Listening on port 44401
+1524629949999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1524629987522	geckodriver	INFO	geckodriver 0.18.0
+1524629987526	geckodriver	INFO	Listening on 127.0.0.1:39566
+1524629988670	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524629989611	Marionette	INFO	Enabled via --marionette
+1524629992347	Marionette	INFO	Listening on port 38605
+1524629992387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524630064887	geckodriver	INFO	geckodriver 0.18.0
+1524630064891	geckodriver	INFO	Listening on 127.0.0.1:54098
+1524630066004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524630067027	Marionette	INFO	Enabled via --marionette
+1524630069859	Marionette	INFO	Listening on port 41851
+1524630069920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524630169704	geckodriver	INFO	geckodriver 0.18.0
+1524630169707	geckodriver	INFO	Listening on 127.0.0.1:33717
+1524630170867	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524630171990	Marionette	INFO	Enabled via --marionette
+1524630174997	Marionette	INFO	Listening on port 33633
+1524630175096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524636030470	geckodriver	INFO	geckodriver 0.18.0
+1524636030474	geckodriver	INFO	Listening on 127.0.0.1:49814
+1524636031589	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524636034330	Marionette	INFO	Enabled via --marionette
+1524636038895	Marionette	INFO	Listening on port 38875
+1524636038917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524636124027	geckodriver	INFO	geckodriver 0.18.0
+1524636124031	geckodriver	INFO	Listening on 127.0.0.1:33220
+1524636124167	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524636126208	Marionette	INFO	Enabled via --marionette
+1524636131061	Marionette	INFO	Listening on port 40476
+1524636131176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524636222074	geckodriver	INFO	geckodriver 0.18.0
+1524636222077	geckodriver	INFO	Listening on 127.0.0.1:53719
+1524636223232	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524636226695	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://shield-recipe-client/lib/PreferenceExperiments.jsm, line 154: TypeError: Object is undefined
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+observe@resource://gre/modules/AsyncShutdown.jsm:535:9
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5028, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1524636268577	geckodriver	INFO	geckodriver 0.18.0
+1524636268581	geckodriver	INFO	Listening on 127.0.0.1:60573
+1524636269695	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524636270686	Marionette	INFO	Enabled via --marionette
+1524636273832	Marionette	INFO	Listening on port 43746
+1524636273913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+1524636361335	geckodriver	INFO	geckodriver 0.18.0
+1524636361338	geckodriver	INFO	Listening on 127.0.0.1:49186
+1524636362488	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524636363669	Marionette	INFO	Enabled via --marionette
+1524636366561	Marionette	INFO	Listening on port 37083
+1524636366618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+JavaScript error: http://192.168.5.25:8000/static/js/bootstrap.min.js, line 6: TypeError: Bootstrap tooltips require Popper.js (https://popper.js.org)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1525325379320	geckodriver	INFO	geckodriver 0.18.0
+1525325379414	geckodriver	INFO	Listening on 127.0.0.1:38835
+1525325380541	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525325387474	Marionette	INFO	Enabled via --marionette
+1525325393750	Marionette	INFO	Listening on port 35612
+1525325394099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525325851953	geckodriver	INFO	geckodriver 0.18.0
+1525325851957	geckodriver	INFO	Listening on 127.0.0.1:50486
+1525325853097	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525325854044	Marionette	INFO	Enabled via --marionette
+1525325857110	Marionette	INFO	Listening on port 35902
+1525325857213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525325885265	geckodriver	INFO	geckodriver 0.18.0
+1525325885268	geckodriver	INFO	Listening on 127.0.0.1:59856
+1525325886402	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525325887580	Marionette	INFO	Enabled via --marionette
+1525325890498	Marionette	INFO	Listening on port 38668
+1525325890524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525597202571	geckodriver	INFO	geckodriver 0.18.0
+1525597202659	geckodriver	INFO	Listening on 127.0.0.1:46459
+1525597203814	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525597210003	Marionette	INFO	Enabled via --marionette
+1525597216069	Marionette	INFO	Listening on port 37170
+1525597217182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525597321322	geckodriver	INFO	geckodriver 0.18.0
+1525597321325	geckodriver	INFO	Listening on 127.0.0.1:37297
+1525597322492	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525597323375	Marionette	INFO	Enabled via --marionette
+1525597326378	Marionette	INFO	Listening on port 43601
+1525597326428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525597388249	geckodriver	INFO	geckodriver 0.18.0
+1525597388252	geckodriver	INFO	Listening on 127.0.0.1:41880
+1525597389370	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525597390349	Marionette	INFO	Enabled via --marionette
+1525597393356	Marionette	INFO	Listening on port 33845
+1525597393395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525597491044	geckodriver	INFO	geckodriver 0.18.0
+1525597491047	geckodriver	INFO	Listening on 127.0.0.1:36557
+1525597492217	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525597493255	Marionette	INFO	Enabled via --marionette
+1525597496327	Marionette	INFO	Listening on port 34873
+1525597496348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1525597610879	geckodriver	INFO	geckodriver 0.18.0
+1525597610884	geckodriver	INFO	Listening on 127.0.0.1:34409
+1525597612000	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525597612875	Marionette	INFO	Enabled via --marionette
+1525597616109	Marionette	INFO	Listening on port 36248
+1525597616123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525598057850	geckodriver	INFO	geckodriver 0.18.0
+1525598057854	geckodriver	INFO	Listening on 127.0.0.1:55214
+1525598058964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525598059879	Marionette	INFO	Enabled via --marionette
+1525598063039	Marionette	INFO	Listening on port 38383
+1525598063084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525598177419	geckodriver	INFO	geckodriver 0.18.0
+1525598177423	geckodriver	INFO	Listening on 127.0.0.1:40940
+1525598178561	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525598179425	Marionette	INFO	Enabled via --marionette
+1525598182406	Marionette	INFO	Listening on port 46630
+1525598182485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525598316308	geckodriver	INFO	geckodriver 0.18.0
+1525598316312	geckodriver	INFO	Listening on 127.0.0.1:35563
+1525598317428	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525598318329	Marionette	INFO	Enabled via --marionette
+1525598321442	Marionette	INFO	Listening on port 41847
+1525598321556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1525598517637	geckodriver	INFO	geckodriver 0.18.0
+1525598517641	geckodriver	INFO	Listening on 127.0.0.1:44987
+1525598518754	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525598519823	Marionette	INFO	Enabled via --marionette
+1525598522718	Marionette	INFO	Listening on port 36499
+1525598522773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525598650094	geckodriver	INFO	geckodriver 0.18.0
+1525598650098	geckodriver	INFO	Listening on 127.0.0.1:53690
+1525598651266	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525598652167	Marionette	INFO	Enabled via --marionette
+1525598655258	Marionette	INFO	Listening on port 41695
+1525598655282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525598851326	geckodriver	INFO	geckodriver 0.18.0
+1525598851330	geckodriver	INFO	Listening on 127.0.0.1:54364
+1525598852458	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525598853380	Marionette	INFO	Enabled via --marionette
+1525598856446	Marionette	INFO	Listening on port 45414
+1525598856474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525598919122	geckodriver	INFO	geckodriver 0.18.0
+1525598919125	geckodriver	INFO	Listening on 127.0.0.1:36521
+1525598920267	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525598921158	Marionette	INFO	Enabled via --marionette
+1525598924080	Marionette	INFO	Listening on port 44027
+1525598924181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525599079587	geckodriver	INFO	geckodriver 0.18.0
+1525599079590	geckodriver	INFO	Listening on 127.0.0.1:40656
+1525599080717	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525599081548	Marionette	INFO	Enabled via --marionette
+1525599084544	Marionette	INFO	Listening on port 39016
+1525599084631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525599213579	geckodriver	INFO	geckodriver 0.18.0
+1525599213583	geckodriver	INFO	Listening on 127.0.0.1:42166
+1525599214710	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525599215583	Marionette	INFO	Enabled via --marionette
+1525599218517	Marionette	INFO	Listening on port 46058
+1525599218526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525599267012	geckodriver	INFO	geckodriver 0.18.0
+1525599267016	geckodriver	INFO	Listening on 127.0.0.1:35406
+1525599268129	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525599269031	Marionette	INFO	Enabled via --marionette
+1525599271999	Marionette	INFO	Listening on port 41375
+1525599272049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525599334812	geckodriver	INFO	geckodriver 0.18.0
+1525599334816	geckodriver	INFO	Listening on 127.0.0.1:44644
+1525599335937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525599336868	Marionette	INFO	Enabled via --marionette
+1525599339807	Marionette	INFO	Listening on port 46680
+1525599339850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525599453791	geckodriver	INFO	geckodriver 0.18.0
+1525599453794	geckodriver	INFO	Listening on 127.0.0.1:59420
+1525599454950	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525599456606	Marionette	INFO	Enabled via --marionette
+1525599459686	Marionette	INFO	Listening on port 45582
+1525599459768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525599596835	geckodriver	INFO	geckodriver 0.18.0
+1525599596838	geckodriver	INFO	Listening on 127.0.0.1:52102
+1525599597965	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525599598982	Marionette	INFO	Enabled via --marionette
+1525599602543	Marionette	INFO	Listening on port 45792
+1525599602587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://123.200.2.57:60842
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://123.200.2.57:60842
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://123.200.2.57:60842
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+1525602052203	geckodriver	INFO	geckodriver 0.18.0
+1525602052260	geckodriver	INFO	Listening on 127.0.0.1:47586
+1525602052579	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525602061569	Marionette	INFO	Enabled via --marionette
+1525602072257	Marionette	INFO	Listening on port 42786
+1525602074753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js, line 527: TypeError: this.sink is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1525670052690	geckodriver	INFO	geckodriver 0.18.0
+1525670052781	geckodriver	INFO	Listening on 127.0.0.1:38796
+1525670054033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525670060822	Marionette	INFO	Enabled via --marionette
+1525670067169	Marionette	INFO	Listening on port 36827
+1525670069139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525670115838	geckodriver	INFO	geckodriver 0.18.0
+1525670115842	geckodriver	INFO	Listening on 127.0.0.1:46077
+1525670117002	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525670117932	Marionette	INFO	Enabled via --marionette
+1525670121015	Marionette	INFO	Listening on port 33986
+1525670121117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525670309010	geckodriver	INFO	geckodriver 0.18.0
+1525670309014	geckodriver	INFO	Listening on 127.0.0.1:58216
+1525670310132	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525670311015	Marionette	INFO	Enabled via --marionette
+1525670314039	Marionette	INFO	Listening on port 44146
+1525670314051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525670457218	geckodriver	INFO	geckodriver 0.18.0
+1525670457222	geckodriver	INFO	Listening on 127.0.0.1:53409
+1525670458344	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525670459308	Marionette	INFO	Enabled via --marionette
+1525670462310	Marionette	INFO	Listening on port 40384
+1525670462362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525671686959	geckodriver	INFO	geckodriver 0.18.0
+1525671686963	geckodriver	INFO	Listening on 127.0.0.1:37290
+1525671688084	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525671688946	Marionette	INFO	Enabled via --marionette
+1525671692091	Marionette	INFO	Listening on port 42517
+1525671692104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525673571748	geckodriver	INFO	geckodriver 0.18.0
+1525673571751	geckodriver	INFO	Listening on 127.0.0.1:42072
+1525673572871	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525673573969	Marionette	INFO	Enabled via --marionette
+1525673576880	Marionette	INFO	Listening on port 38801
+1525673576888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525673668622	geckodriver	INFO	geckodriver 0.18.0
+1525673668628	geckodriver	INFO	Listening on 127.0.0.1:46105
+1525673669744	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525673670733	Marionette	INFO	Enabled via --marionette
+1525673673589	Marionette	INFO	Listening on port 44167
+1525673673660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525673771911	geckodriver	INFO	geckodriver 0.18.0
+1525673771914	geckodriver	INFO	Listening on 127.0.0.1:45070
+1525673773046	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525673773921	Marionette	INFO	Enabled via --marionette
+1525673776830	Marionette	INFO	Listening on port 35203
+1525673776871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525674236121	geckodriver	INFO	geckodriver 0.18.0
+1525674236125	geckodriver	INFO	Listening on 127.0.0.1:53922
+1525674237246	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525674238212	Marionette	INFO	Enabled via --marionette
+1525674241085	Marionette	INFO	Listening on port 34650
+1525674241163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525674584467	geckodriver	INFO	geckodriver 0.18.0
+1525674584476	geckodriver	INFO	Listening on 127.0.0.1:42558
+1525674585602	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525674587287	Marionette	INFO	Enabled via --marionette
+1525674590357	Marionette	INFO	Listening on port 46130
+1525674590427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525674847490	geckodriver	INFO	geckodriver 0.18.0
+1525674847494	geckodriver	INFO	Listening on 127.0.0.1:53177
+1525674848607	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525674850353	Marionette	INFO	Enabled via --marionette
+1525674853526	Marionette	INFO	Listening on port 38817
+1525674853547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525674899868	geckodriver	INFO	geckodriver 0.18.0
+1525674899872	geckodriver	INFO	Listening on 127.0.0.1:44001
+1525674901066	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525674902510	Marionette	INFO	Enabled via --marionette
+1525674905467	Marionette	INFO	Listening on port 46458
+1525674905495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525674953205	geckodriver	INFO	geckodriver 0.18.0
+1525674953208	geckodriver	INFO	Listening on 127.0.0.1:38813
+1525674953348	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525674955060	Marionette	INFO	Enabled via --marionette
+1525674959649	Marionette	INFO	Listening on port 38760
+1525674959845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1525675078265	geckodriver	INFO	geckodriver 0.18.0
+1525675078268	geckodriver	INFO	Listening on 127.0.0.1:60041
+1525675078561	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525675084539	Marionette	INFO	Enabled via --marionette
+1525675089763	Marionette	INFO	Listening on port 35006
+1525675089791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+[Parent 7979, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1525675317771	geckodriver	INFO	geckodriver 0.18.0
+1525675317906	geckodriver	INFO	Listening on 127.0.0.1:44099
+1525675319089	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525675322256	Marionette	INFO	Enabled via --marionette
+1525675326669	Marionette	INFO	Listening on port 43405
+1525675326716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1525675503191	geckodriver	INFO	geckodriver 0.18.0
+1525675503195	geckodriver	INFO	Listening on 127.0.0.1:35136
+1525675504305	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525675505212	Marionette	INFO	Enabled via --marionette
+1525675508004	Marionette	INFO	Listening on port 35672
+1525675508025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+[Parent 9932, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 9932, Gecko_IOThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1525688554668	geckodriver	INFO	geckodriver 0.18.0
+1525688554672	geckodriver	INFO	Listening on 127.0.0.1:33812
+1525688555778	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1525688556742	Marionette	INFO	Enabled via --marionette
+1525688559885	Marionette	INFO	Listening on port 45370
+1525688559910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1531288410554	geckodriver	INFO	geckodriver 0.18.0
+1531288410630	geckodriver	INFO	Listening on 127.0.0.1:52957
+1531288411751	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531288418107	Marionette	INFO	Enabled via --marionette
+1531288423748	Marionette	INFO	Listening on port 46537
+1531288424009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531292296871	geckodriver	INFO	geckodriver 0.18.0
+1531292296874	geckodriver	INFO	Listening on 127.0.0.1:58015
+1531292298027	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531292298999	Marionette	INFO	Enabled via --marionette
+1531292302013	Marionette	INFO	Listening on port 39018
+1531292302041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531292356024	geckodriver	INFO	geckodriver 0.18.0
+1531292356028	geckodriver	INFO	Listening on 127.0.0.1:60904
+1531292357179	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531292358161	Marionette	INFO	Enabled via --marionette
+1531292361264	Marionette	INFO	Listening on port 34847
+1531292361294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1531294204501	geckodriver	INFO	geckodriver 0.18.0
+1531294204506	geckodriver	INFO	Listening on 127.0.0.1:52431
+1531294205619	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531294206546	Marionette	INFO	Enabled via --marionette
+1531294209529	Marionette	INFO	Listening on port 37703
+1531294209642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531977268067	geckodriver	INFO	geckodriver 0.18.0
+1531977268143	geckodriver	INFO	Listening on 127.0.0.1:59706
+1531977269254	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531977275767	Marionette	INFO	Enabled via --marionette
+1531977282238	Marionette	INFO	Listening on port 34679
+1531977284394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531977439681	geckodriver	INFO	geckodriver 0.18.0
+1531977439684	geckodriver	INFO	Listening on 127.0.0.1:33988
+1531977440830	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531977441752	Marionette	INFO	Enabled via --marionette
+1531977444906	Marionette	INFO	Listening on port 36474
+1531977444955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531979075739	geckodriver	INFO	geckodriver 0.18.0
+1531979075742	geckodriver	INFO	Listening on 127.0.0.1:49309
+1531979076895	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531979077870	Marionette	INFO	Enabled via --marionette
+1531979081178	Marionette	INFO	Listening on port 33602
+1531979081213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531979093606	geckodriver	INFO	geckodriver 0.18.0
+1531979093612	geckodriver	INFO	Listening on 127.0.0.1:55886
+1531979094726	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531979095653	Marionette	INFO	Enabled via --marionette
+1531979098670	Marionette	INFO	Listening on port 42251
+1531979098741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/js/jquery.fancybox.js, line 5147: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531979114629	geckodriver	INFO	geckodriver 0.18.0
+1531979114632	geckodriver	INFO	Listening on 127.0.0.1:53103
+1531979115747	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531979116646	Marionette	INFO	Enabled via --marionette
+1531979119703	Marionette	INFO	Listening on port 34705
+1531979119775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531979169284	geckodriver	INFO	geckodriver 0.18.0
+1531979169288	geckodriver	INFO	Listening on 127.0.0.1:59095
+1531979170418	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531979171300	Marionette	INFO	Enabled via --marionette
+1531979174207	Marionette	INFO	Listening on port 38426
+1531979174252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531979253793	geckodriver	INFO	geckodriver 0.18.0
+1531979253796	geckodriver	INFO	Listening on 127.0.0.1:49391
+1531979254965	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531979255858	Marionette	INFO	Enabled via --marionette
+1531979258884	Marionette	INFO	Listening on port 43743
+1531979258980	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531979299626	geckodriver	INFO	geckodriver 0.18.0
+1531979299630	geckodriver	INFO	Listening on 127.0.0.1:52842
+1531979300750	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531979301655	Marionette	INFO	Enabled via --marionette
+1531979304577	Marionette	INFO	Listening on port 37198
+1531979304673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531979388294	geckodriver	INFO	geckodriver 0.18.0
+1531979388297	geckodriver	INFO	Listening on 127.0.0.1:48191
+1531979389416	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1531979390323	Marionette	INFO	Enabled via --marionette
+1531979393183	Marionette	INFO	Listening on port 39882
+1531979393240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532001037025	geckodriver	INFO	geckodriver 0.18.0
+1532001037051	geckodriver	INFO	Listening on 127.0.0.1:34230
+1532001038180	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1532001039747	Marionette	INFO	Enabled via --marionette
+1532001043645	Marionette	INFO	Listening on port 42838
+1532001043710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532001052067	geckodriver	INFO	geckodriver 0.18.0
+1532001052071	geckodriver	INFO	Listening on 127.0.0.1:41280
+1532001053222	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1532001054232	Marionette	INFO	Enabled via --marionette
+1532001057296	Marionette	INFO	Listening on port 33844
+1532001057414	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1533622237205	geckodriver	INFO	geckodriver 0.18.0
+1533622237326	geckodriver	INFO	Listening on 127.0.0.1:40104
+1533622238347	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533622244581	Marionette	INFO	Enabled via --marionette
+1533622250739	Marionette	INFO	Listening on port 37741
+1533622250996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533622272509	geckodriver	INFO	geckodriver 0.18.0
+1533622272512	geckodriver	INFO	Listening on 127.0.0.1:40734
+1533622273632	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533622274769	Marionette	INFO	Enabled via --marionette
+1533622277903	Marionette	INFO	Listening on port 40120
+1533622277953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.js, line 304: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1027: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.js, line 304: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533622488670	geckodriver	INFO	geckodriver 0.18.0
+1533622488674	geckodriver	INFO	Listening on 127.0.0.1:42086
+1533622489792	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533622490744	Marionette	INFO	Enabled via --marionette
+1533622493852	Marionette	INFO	Listening on port 36988
+1533622493920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1027: TypeError: locations_array is undefined
+1533622745059	geckodriver	INFO	geckodriver 0.18.0
+1533622745062	geckodriver	INFO	Listening on 127.0.0.1:47287
+1533622746190	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533622747121	Marionette	INFO	Enabled via --marionette
+1533622750204	Marionette	INFO	Listening on port 37634
+1533622750319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533622824047	geckodriver	INFO	geckodriver 0.18.0
+1533622824050	geckodriver	INFO	Listening on 127.0.0.1:56179
+1533622825171	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533622826225	Marionette	INFO	Enabled via --marionette
+1533622829273	Marionette	INFO	Listening on port 32871
+1533622829289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533622851572	geckodriver	INFO	geckodriver 0.18.0
+1533622851576	geckodriver	INFO	Listening on 127.0.0.1:59167
+1533622852703	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533622853613	Marionette	INFO	Enabled via --marionette
+1533622856565	Marionette	INFO	Listening on port 44988
+1533622856623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1027: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533622966444	geckodriver	INFO	geckodriver 0.18.0
+1533622966447	geckodriver	INFO	Listening on 127.0.0.1:41626
+1533622966585	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533622967946	Marionette	INFO	Enabled via --marionette
+1533622971762	Marionette	INFO	Listening on port 34643
+1533622971806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1027: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533627248181	geckodriver	INFO	geckodriver 0.18.0
+1533627248185	geckodriver	INFO	Listening on 127.0.0.1:55708
+1533627248337	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533627249925	Marionette	INFO	Enabled via --marionette
+1533627253681	Marionette	INFO	Listening on port 40092
+1533627253760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1027: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533627672795	geckodriver	INFO	geckodriver 0.18.0
+1533627672799	geckodriver	INFO	Listening on 127.0.0.1:58278
+1533627673921	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533627674849	Marionette	INFO	Enabled via --marionette
+1533627678260	Marionette	INFO	Listening on port 40288
+1533627678420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1027: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+1533629053647	geckodriver	INFO	geckodriver 0.18.0
+1533629053650	geckodriver	INFO	Listening on 127.0.0.1:38793
+1533629054823	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533629056221	Marionette	INFO	Enabled via --marionette
+1533629059143	Marionette	INFO	Listening on port 46206
+1533629059253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1027: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533629095456	geckodriver	INFO	geckodriver 0.18.0
+1533629095459	geckodriver	INFO	Listening on 127.0.0.1:60224
+1533629096587	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533629097620	Marionette	INFO	Enabled via --marionette
+1533629100714	Marionette	INFO	Listening on port 43335
+1533629100802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1027: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: resource://gre/modules/InlineSpellCheckerContent.jsm, line 56: TypeError: realSpellChecker is null
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/locale/eo.js, line 11: TypeError: moment is undefined
+JavaScript error: about:newtab, line 970: TypeError: gSnippetsMap.getTotalBookmarksCount is not a function
+1533709279663	geckodriver	INFO	geckodriver 0.18.0
+1533709279742	geckodriver	INFO	Listening on 127.0.0.1:37203
+1533709280872	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533709287820	Marionette	INFO	Enabled via --marionette
+1533709293934	Marionette	INFO	Listening on port 46742
+1533709296033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 944: ReferenceError: google is not defined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1032: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533725738170	geckodriver	INFO	geckodriver 0.18.0
+1533725738173	geckodriver	INFO	Listening on 127.0.0.1:48880
+1533725739289	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533725740315	Marionette	INFO	Enabled via --marionette
+1533725743319	Marionette	INFO	Listening on port 34641
+1533725743406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1032: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533725932326	geckodriver	INFO	geckodriver 0.18.0
+1533725932329	geckodriver	INFO	Listening on 127.0.0.1:44261
+1533725933480	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533725934513	Marionette	INFO	Enabled via --marionette
+1533725937514	Marionette	INFO	Listening on port 34552
+1533725937595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.js, line 304: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 944: ReferenceError: google is not defined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1032: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533726563241	geckodriver	INFO	geckodriver 0.18.0
+1533726563245	geckodriver	INFO	Listening on 127.0.0.1:42783
+1533726564361	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533726565372	Marionette	INFO	Enabled via --marionette
+1533726568415	Marionette	INFO	Listening on port 43219
+1533726568481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.js, line 413: TypeError: Date.today is not a function
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1032: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+1533729707586	geckodriver	INFO	geckodriver 0.18.0
+1533729707589	geckodriver	INFO	Listening on 127.0.0.1:43086
+1533729708751	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1533729709730	Marionette	INFO	Enabled via --marionette
+1533729712737	Marionette	INFO	Listening on port 33906
+1533729712781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://123.200.2.57:60842/static/vendors/jqvmap/dist/maps/jquery.vmap.world.js, line 2: TypeError: jQuery.fn.vectorMap is not a function
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/supervisor/dashboard, line 1032: TypeError: locations_array is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
+JavaScript error: http://123.200.2.57:60842/static/vendors/build/js/custom.min.js, line 3: TypeError: $.fn.popover is undefined
